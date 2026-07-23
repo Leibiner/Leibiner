@@ -34,11 +34,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Leibiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leibiner&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leibiner&layout=compact&hide_border=true)
+![Repos](https://img.shields.io/badge/Public%20Repos-7-2ea44f?style=flat-square&logo=github)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Testing-0969da?style=flat-square)
+![Quality](https://img.shields.io/badge/Quality-Automation%20%7C%20Performance-8250df?style=flat-square)
 
 ### 🐍 Contribution Snake
 
